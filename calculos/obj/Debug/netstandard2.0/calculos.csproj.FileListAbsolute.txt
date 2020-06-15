@@ -1,0 +1,9 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\Senai\teste-unitario-com-nunit\calculos\bin\Debug\netstandard2.0\calculos.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\Senai\teste-unitario-com-nunit\calculos\bin\Debug\netstandard2.0\calculos.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\Senai\teste-unitario-com-nunit\calculos\bin\Debug\netstandard2.0\calculos.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\Senai\teste-unitario-com-nunit\calculos\obj\Debug\netstandard2.0\calculos.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\Senai\teste-unitario-com-nunit\calculos\obj\Debug\netstandard2.0\calculos.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\Senai\teste-unitario-com-nunit\calculos\obj\Debug\netstandard2.0\calculos.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\Senai\teste-unitario-com-nunit\calculos\obj\Debug\netstandard2.0\calculos.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\Senai\teste-unitario-com-nunit\calculos\obj\Debug\netstandard2.0\calculos.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\Senai\teste-unitario-com-nunit\calculos\obj\Debug\netstandard2.0\calculos.pdb
