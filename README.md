@@ -24,4 +24,5 @@ dotnet add calculos.tests/calculos.tests.csproj reference calculos/calculos.cspr
 ## Execução
 dotnet test
 
-* Referência: https://www.treinaweb.com.br/blog/teste-unitarios-no-c-com-o-nunit/
+## Referência
+https://www.treinaweb.com.br/blog/teste-unitarios-no-c-com-o-nunit/
