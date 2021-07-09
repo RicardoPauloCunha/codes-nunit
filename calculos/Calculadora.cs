@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace calculos
+﻿namespace calculos
 {
     public class Calculadora
     {
